@@ -28,7 +28,7 @@
 		});
 
 	// Animating the banner text
-        const example = ['data analyst', 'developer', 'designer', 'people person', 'cyclist'];
+        const example = ['data analyst', 'developer', 'designer', 'dad', 'people person', 'cyclist'];
 
         textSequence(0);
         function textSequence(i) {
